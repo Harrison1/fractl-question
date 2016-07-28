@@ -1,0 +1,49 @@
+Thank you for your interest in this position. We’d like to ask you to complete this sample project.
+
+Please let us know the following before beginning the project:
+
+● When are you able to begin work on this project?
+
+● Please give an estimate of how long this project will take?
+
+Please reply with this information prior to starting the project.
+
+Sample Project:
+
+We need a responsive page created that will eventually be converted to Wordpress, but you need not
+
+worry about the Wordpress aspect for the purpose of this test.
+
+This new page should contain the same content found on the this example page but should match the
+
+look and branding of the client’s current website.
+
+● Header and footer content should be the same as the old template and contain nothing additional
+
+to what is seen in the old version
+
+● Main body content should also be the same as what is seen in the old version
+
+● This page needs to be responsive - the responsive nature not perfect now - we encourage you to
+
+improve the responsivity (and any other aspects of the page) as you see fit
+
+● Feel free to use as much code as you can from the two links above - if you want to make
+
+improvements, feel free to do so
+
+● Delivery:
+
+○ Please work on this all at once
+
+○ Please respond as soon as possible after receiving this email with an estimate of how
+
+long this task will take
+
+○ Please deliver all files (HTML, CSS, js, images) in one zip folder with your name in the
+
+filename of the form: &quot;firstname-lastname- test.zip&quot;. Submit this by email by responding in
+
+this thread with an attachment
+
+○ When you submit this .zip file, please give a concise explanation of what you did
