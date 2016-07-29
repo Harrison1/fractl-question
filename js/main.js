@@ -1,6 +1,16 @@
 $( document ).ready(function() {
 
-var height = $(window).height();
-var scrollTop = $(window).scrollTop();
+	$(window).scroll(function() {
+
+		var $this = $(this)
+
+		if ($this.scrollTop() > 0) {
+			$(".navbar").addClass("scrolled");
+			$(".cta-nav").addClass("scrolled");
+		} else {
+			$(".navbar").removeClass("scrolled");
+			$(".cta-nav").removeClass("scrolled");
+		}    
+	})
 
 });
