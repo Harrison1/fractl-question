@@ -1,5 +1,5 @@
 # fractl-question
-website mimicking heroin.net's design
+website mimicking heroin.net's responsive design
 
 https://harrison1.github.io/fractl-question/
 
