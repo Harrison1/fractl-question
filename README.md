@@ -1,5 +1,5 @@
 # fractl-question
-website mimicking heroin.net's responsive design. HTML, CSS, JS, and JQuery
+website mimicking heroin.net's responsive design. frontend design. HTML, CSS, JS, and JQuery
 
 https://harrison1.github.io/fractl-question/
 
